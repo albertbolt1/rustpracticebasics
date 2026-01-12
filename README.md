@@ -61,6 +61,8 @@ We’re not allowed to modify something we have a reference to.
 <b> Rust ensures that we have many immutable references ie read or one mutable reference but not both and not many mutable references as that can also cause data races </b>
 
 
+traits are like interfaces
+
 
 
  
