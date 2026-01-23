@@ -62,6 +62,7 @@ We’re not allowed to modify something we have a reference to.
 
 
 traits are like interfaces
+<b> lifetimes</b>
 
 
 
